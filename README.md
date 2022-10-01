@@ -52,6 +52,6 @@ Aqui você encontra alguns dos meus projetos acadêmicos e desafios pessoais.
 <div align="center"> 
   
   <a href = "mailto:contato:avilacamilla@outlook.com"><img src="https://img.icons8.com/color/48/000000/ms-outlook.png" height="40"></a>
-  <a href="https://www.linkedin.com/in/avilacamilla/" target="__blank"><img src="https://img.icons8.com/color/48/228BE6/linkedin-circled--v1.png" height="40"></a> 
+  <a href="https://www.linkedin.com/in/avilacamilla/"><img src="https://img.icons8.com/color/48/228BE6/linkedin-circled--v1.png" height="40"></a> 
  
 </div>

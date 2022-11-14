@@ -3,7 +3,6 @@
 
 <p align="left">
   - Focada em JavaScript, ReactJS e <em>Acessibilidade Web</em><br>
-  - Dando uns passinhos curiosos em Java 👩🏻‍💻
 </p>
 
 <p align="left">

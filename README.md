@@ -2,7 +2,7 @@
 
 
 <p align="left">
-  - Focada em JavaScript, ReactJS e <em>Acessibilidade Web</em><br>
+  - Focada em JavaScript<br>
 </p>
 
 <p align="left">

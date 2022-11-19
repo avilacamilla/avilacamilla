@@ -23,14 +23,12 @@ Aqui você encontra alguns dos meus projetos acadêmicos e desafios pessoais ↴
   
   <img align="left" alt="avilacamilla-logo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
+  <img align="left" alt="avilacamilla-logo-sass" height="30" width="40" src="https://www.svgrepo.com/show/354310/sass.svg">
+  
   <img align="left" alt="avilacamilla-logo-bootstrap" height="30" width="40" src="https://www.svgrepo.com/show/353498/bootstrap.svg">
   
   <img align="left" alt="avilacamilla-logo-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
   <img align="left" alt="avilacamilla-logo-React" height="30" width="40" src="https://www.svgrepo.com/show/354259/react.svg">
-  
-  <img align="left" alt="avilacamilla-logo-NodeJs" height="30" width="40" src="https://www.svgrepo.com/show/378837/node.svg">
-  
-  <img align="left" alt="avilacamilla-logo-Java" height="30" width="40" src="https://www.svgrepo.com/show/184143/java.svg"> 
     
 </div>

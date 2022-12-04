@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-Aqui você encontra alguns dos meus projetos acadêmicos e desafios pessoais ↴
+Aqui você encontra alguns dos meus projetos e desafios pessoais ↴
 </p>
 
 #

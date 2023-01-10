@@ -10,6 +10,11 @@ Aqui você encontra alguns dos meus projetos e desafios pessoais ↴
 </p>
 
 #
+<div align="left">
+  <a href="https://github.com/avilacamilla">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=avilacamilla&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avilacamilla&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
 
 

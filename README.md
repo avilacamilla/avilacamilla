@@ -1,5 +1,6 @@
-<em>'ela/dela' 🌸</em>
+<a href="https://www.linkedin.com/in/avilacamilla" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=12F2F7&multiline=true&width=435&lines=Ol%C3%A1!+Eu+sou+a+Camilla+Avila+%3D)" alt="Typing SVG" /></a>
 
+<em>'ela/dela' 🌸</em>
 
 <p align="left">
   - Focada em JavaScript.<br>

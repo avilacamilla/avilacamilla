@@ -3,7 +3,7 @@
 <em>'ela/dela' 🌸</em>
 
 <p align="left">
-  - Focada em JavaScript.<br>
+  - Focada em JavaScript 💛<br>
 </p>
 
 <p align="left">

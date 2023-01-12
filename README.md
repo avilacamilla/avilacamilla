@@ -31,8 +31,10 @@ Aqui você encontra alguns dos meus projetos e desafios pessoais ↴
   
   <img align="left" alt="avilacamilla-logo-React" height="30" width="40" src="https://www.svgrepo.com/show/354259/react.svg">
   
-  <img align="left" alt="avilacamilla-logo-React" height="30" width="40" src="https://www.svgrepo.com/show/303600/typescript-logo.svg">
+  <img align="left" alt="avilacamilla-logo-TypeScript" height="30" width="40" src="https://www.svgrepo.com/show/373872/nestjs.svg">
   
-  <img align="left" alt="avilacamilla-logo-React" height="30" width="40" src="https://www.svgrepo.com/show/353396/angular-icon.svg">
+  <img align="left" alt="avilacamilla-logo-TypeScript" height="30" width="40" src="https://www.svgrepo.com/show/303600/typescript-logo.svg">
+  
+  <img align="left" alt="avilacamilla-logo-Angular" height="30" width="40" src="https://www.svgrepo.com/show/353396/angular-icon.svg">
     
 </div>

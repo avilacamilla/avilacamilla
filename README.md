@@ -30,7 +30,5 @@ Aqui você encontra alguns dos meus projetos e desafios pessoais ↴
   <img align="left" alt="avilacamilla-logo-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
   <img align="left" alt="avilacamilla-logo-React" height="30" width="40" src="https://www.svgrepo.com/show/354259/react.svg">
-  
-  <img align="left" alt="avilacamilla-logo-TypeScript" height="30" width="40" src="https://www.svgrepo.com/show/303600/typescript-logo.svg">
     
 </div>

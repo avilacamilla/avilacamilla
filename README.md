@@ -4,6 +4,7 @@
 
 <p align="left">
   - Focada em JavaScript 💛<br>
+  - DBA 👩🏻‍💻
 </p>
 
 <p align="left">

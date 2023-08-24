@@ -3,8 +3,7 @@
 <em>'ela/dela' 🌸</em>
 
 <p align="left">
-  - Focada em JavaScript 💛<br>
-  - DBA 👩🏻‍💻
+  - Focada em React e TypeScript 💛<br>
 </p>
 
 <p align="left">

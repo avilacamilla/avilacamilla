@@ -31,6 +31,6 @@ Aqui você encontra alguns dos meus projetos e desafios pessoais ↴
   
   <img align="left" alt="avilacamilla-logo-React" height="30" width="40" src="https://www.svgrepo.com/show/354259/react.svg">
 
-  <img align="left" alt="avilacamilla-logo-Svelte" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Svelte_logo_by_gengns.svg/640px-Svelte_logo_by_gengns.svg.png">
+  <img align="left" alt="avilacamilla-logo-Svelte" height="30" width="40" src="https://www.svgrepo.com/show/374109/svelte.svg">
     
 </div>

@@ -1,13 +1,20 @@
 <a href="https://www.linkedin.com/in/avilacamilla" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4985&pause=1000&color=14D4EF&vCenter=true&width=435&lines=Ol%C3%A1!+Eu+sou+a+Camilla+Avila+%3D)" alt="Typing SVG" /></a>
 
-<em>'ela/dela' 🌸</em>
-
 <p align="left">
-  - Focada em React e TypeScript 🩵<br>
+  - Focada em React e TS 🩵<br>
 </p>
 
 <p align="left">
-Aqui você encontra alguns dos meus projetos e desafios pessoais ↴
+  Especialista em desenvolvimento front-end para Web e Apps híbridos, com vasta experiência em CSS, Responsividade de telas, HTML semântico e Design. As tecnologias que mais utilizo são CSS/Sass, HTML, JavaScript, React.js, TypeScript, Next.js, MongoDB, mySQL e Express.
+</p>
+
+<p align="left">
+  Minha jornada tem sido marcada pela criação de soluções digitais, dominando tecnologias como React e TypeScript, prezando por componentes reutilizáveis e contribuindo para o desenvolvimento de projetos responsivos e acessíveis, sempre com foco na otimização e na experiência do usuário.
+</p>
+
+
+<p align="left">
+  Portfólio está sendo atualizado, mas aqui você já encontra alguns dos meus projetos e desafios pessoais ↴
 </p>
 
 <div align="left">
@@ -28,6 +35,8 @@ Aqui você encontra alguns dos meus projetos e desafios pessoais ↴
   <img align="left" alt="avilacamilla-logo-bootstrap" height="30" width="40" src="https://www.svgrepo.com/show/353498/bootstrap.svg">
   
   <img align="left" alt="avilacamilla-logo-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
+  <img align="left" alt="avilacamilla-logo-Typescript" height="35" width="45" src="https://www.svgrepo.com/show/374146/typescript-official.svg">
   
   <img align="left" alt="avilacamilla-logo-React" height="30" width="40" src="https://www.svgrepo.com/show/354259/react.svg">
 

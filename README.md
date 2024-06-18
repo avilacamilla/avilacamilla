@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  Minha jornada tem sido marcada pela criação de soluções digitais, dominando tecnologias como React e TypeScript, prezando por componentes reutilizáveis e contribuindo para o desenvolvimento de projetos responsivos e acessíveis, sempre com foco na otimização e na experiência do usuário.
+  Minha jornada tem sido marcada pela criação de soluções digitais, dominando tecnologias como React e TypeScript, prezando por componentes reutilizáveis e contribuindo para o desenvolvimento de projetos responsivos e acessíveis ♿, sempre com foco na otimização e na experiência do usuário.
 </p>
 
 

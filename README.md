@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  Especialista em desenvolvimento Front-end para Web e Apps híbridos, com vasta experiência em CSS, Responsividade de telas, HTML semântico e Design. As tecnologias que mais utilizo são CSS/Sass, HTML, JavaScript, React.js, TypeScript, Next.js, MongoDB, mySQL e Express.
+  Especialista em desenvolvimento Front-end para Web e Apps híbridos, com vasta experiência em CSS, Responsividade de telas, HTML semântico e Design. As tecnologias que mais utilizo são CSS/Sass, HTML, JavaScript, React.js, TypeScript, Next.js, MongoDB, SQL e Express.
 </p>
 
 <p align="left">

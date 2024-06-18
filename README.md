@@ -14,7 +14,7 @@
 
 
 <p align="left">
-  Portfólio está sendo atualizado, mas aqui você já encontra alguns dos meus projetos e desafios pessoais ↴
+  Aqui você encontra alguns dos meus projetos e desafios pessoais ↴
 </p>
 
 <div align="left">

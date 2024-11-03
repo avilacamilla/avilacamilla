@@ -1,15 +1,11 @@
 <a href="https://www.linkedin.com/in/avilacamilla" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4985&pause=1000&color=14D4EF&vCenter=true&width=435&lines=Ol%C3%A1!+Eu+sou+a+Camilla+Avila+%3D)" alt="Typing SVG" /></a>
 
 <p align="left">
-  - Focada em React e TS 🩵<br>
+  Desenvolvedora de Software com foco em Front-end, em constante evolução e dedicada a criar interfaces acessíveis e otimizadas. Apaixonada por HTML e CSS, me destaco em responsividade de layouts, usabilidade e acessibilidade, com um olhar atento aos detalhes que fazem a diferença na experiência do usuário.
 </p>
 
 <p align="left">
-  Especialista em desenvolvimento Front-end para Web e Apps híbridos, com vasta experiência em CSS, Responsividade de telas, HTML semântico e Design. As tecnologias que mais utilizo são CSS/Sass, HTML, JavaScript, React.js, TypeScript, Next.js, MongoDB, SQL e Express.
-</p>
-
-<p align="left">
-  Minha jornada tem sido marcada pela criação de soluções digitais, dominando tecnologias como React e TypeScript, prezando por componentes reutilizáveis e contribuindo para o desenvolvimento de projetos responsivos e acessíveis ♿, sempre com foco na otimização e na experiência do usuário.
+  Nos últimos anos, trabalhei intensivamente com React.js e TypeScript, desenvolvendo sites institucionais e sistemas de gerenciamento com foco em componentização e escalabilidade. Tive a oportunidade de integrar front-ends a APIs robustas, gerenciar dados com MongoDB e explorar o uso de blockchain, garantindo segurança e confiabilidade nas soluções. Atualmente, estou ampliando meus conhecimentos em Angular, NestJS e Google Cloud, agregando novas ferramentas e técnicas ao meu repertório.
 </p>
 
 

@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/avilacamilla" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4985&pause=1000&color=14D4EF&vCenter=true&width=435&lines=Ol%C3%A1!+Eu+sou+a+Camilla+Avila+%3D)" alt="Typing SVG" /></a>
+<a href="https://www.linkedin.com/in/avilacamilla" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4985&pause=1000&color=5c43e4&vCenter=true&width=435&lines=Ol%C3%A1!+Eu+sou+a+Camilla+Avila+%3D)" alt="Typing SVG" /></a>
 
 <p align="left">
   Desenvolvedora de Software com foco em Front-end, em constante evolução e dedicada a criar interfaces acessíveis e otimizadas. Apaixonada por HTML e CSS, me destaco em responsividade de layouts, usabilidade e acessibilidade, com um olhar atento aos detalhes que fazem a diferença na experiência do usuário.

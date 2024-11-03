@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/avilacamilla" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4985&pause=1000&color=5c43e4&vCenter=true&width=435&lines=Ol%C3%A1!+Eu+sou+a+Camilla+Avila+%3D)" alt="Typing SVG" /></a>
+<a href="https://www.linkedin.com/in/avilacamilla" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4985&pause=1000&color=D83B7D&vCenter=true&width=435&lines=Ol%C3%A1!+Eu+sou+a+Camilla+Avila+%3D)" alt="Typing SVG" /></a>
 
 <p align="left">
   Desenvolvedora de Software com foco em Front-end, em constante evolução e dedicada a criar interfaces acessíveis e otimizadas. Apaixonada por HTML e CSS, me destaco em responsividade de layouts, usabilidade e acessibilidade, com um olhar atento aos detalhes que fazem a diferença na experiência do usuário.
@@ -29,13 +29,21 @@
   <img align="left" alt="avilacamilla-logo-sass" height="30" width="40" src="https://www.svgrepo.com/show/354310/sass.svg">
   
   <img align="left" alt="avilacamilla-logo-bootstrap" height="30" width="40" src="https://www.svgrepo.com/show/353498/bootstrap.svg">
+
+  <img align="left" alt="avilacamilla-logo-MUI" height="35" width="40" src="https://www.svgrepo.com/show/354048/material-ui.svg">
   
   <img align="left" alt="avilacamilla-logo-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
-  <img align="left" alt="avilacamilla-logo-Typescript" height="35" width="45" src="https://www.svgrepo.com/show/374146/typescript-official.svg">
+  <img align="left" alt="avilacamilla-logo-Typescript" height="33" width="45" src="https://www.svgrepo.com/show/374146/typescript-official.svg">
   
   <img align="left" alt="avilacamilla-logo-React" height="30" width="40" src="https://www.svgrepo.com/show/354259/react.svg">
 
+  <img align="left" alt="avilacamilla-logo-Angular" height="35" width="45" src="https://www.svgrepo.com/show/452156/angular.svg">
+
+  <img align="left" alt="avilacamilla-logo-Vue" height="33" width="45" src="https://www.svgrepo.com/show/303494/vue-9-logo.svg">
+
   <img align="left" alt="avilacamilla-logo-Svelte" height="35" width="40" src="https://www.svgrepo.com/show/374109/svelte.svg">
+
+  <img align="left" alt="avilacamilla-logo-Nest" height="35" width="40" src="https://www.svgrepo.com/show/373872/nestjs.svg">
     
 </div>
